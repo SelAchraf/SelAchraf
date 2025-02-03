@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-![Header Image](https://github.com/SelAchraf/SelAchraf/blob/main/Screenshot%20from%202025-02-03%2010-05-37.png?raw=true)
+![Header Image](https://github.com/SelAchraf/SelAchraf/blob/main/image.png?raw=true)
 
 ## About Me
 Hi, I'm Achraf! I'm a software developer with a passion for coding and open-source projects. I'm also a student at the University of Badji Mokhtar Annaba, pursuing a Master's degree in Computer Science with a specialization in Network and Cybersecurity.
