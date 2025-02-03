@@ -1,11 +1,9 @@
 # Welcome to my GitHub Profile!
 
-![Header Image](https://github.com/SelAchraf/SelAchraf/blob/main/image.png?raw=true)
-
 ## About Me
 Hi, I'm Achraf! I'm a software developer with a passion for coding and open-source projects. I'm also a student at the University of Badji Mokhtar Annaba, pursuing a Master's degree in Computer Science with a specialization in Network and Cybersecurity.
 
-- 🔭 I’m currently working on [Agrivers](https://github.com/Atomic-CodeDz/Agrivers.git)
+- 🔭 I’m currently working on [Agrivers](https://github.com/Atomic-CodeDz/Agrivers.git) and [Mawarid](https://github.com/Arctec-int/OmranDebrand.git)
 - 🌱 I’m currently learning **JavaScript**, **React**, and **Express.js**
 - 👯 I’m looking to collaborate on open-source projects
 
