@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-![Header Image]([https://example.com/your-image.png](https://unsplash.com/fr/photos/moniteur-affichant-c-2xEQDxB0ss4))
+![Header Image](https://unsplash.com/fr/photos/moniteur-affichant-c-2xEQDxB0ss4)
 
 ## About Me
 Hi, I'm Achraf! I'm a software developer with a passion for coding and open-source projects. I'm also a student at the University of Badji Mokhtar Annaba, pursuing a Master's degree in Computer Science with a specialization in Network and Cybersecurity.
