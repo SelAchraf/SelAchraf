@@ -8,7 +8,6 @@ Hi, I'm Achraf! I'm a software developer with a passion for coding and open-sour
 - 🔭 I’m currently working on [Agrivers](https://github.com/Atomic-CodeDz/Agrivers.git)
 - 🌱 I’m currently learning **JavaScript**, **React**, and **Express.js**
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [your.email@example.com](mailto:newachraf23@gmail.com)
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical)
@@ -24,6 +23,7 @@ Hi, I'm Achraf! I'm a software developer with a passion for coding and open-sour
 [![Odoo](https://img.shields.io/badge/-Odoo-EE0022?style=flat&logo=odoo&logoColor=white)](https://www.odoo.com/)
 
 ## Connect with Me
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:newachraf23@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Dv7ahYPqm/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/achraf._.sel?igsh=ZHJ1MGdoYWRmbWg1)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/SelMedAchraf)
