@@ -8,7 +8,7 @@ Hi, I'm Achraf! I'm a software developer with a passion for coding and open-sour
 - 👯 I’m looking to collaborate on open-source projects
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
