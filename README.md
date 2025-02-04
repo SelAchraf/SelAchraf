@@ -8,13 +8,9 @@ Hi, I'm SELOUGHA Mohamed Achraf! I'm a software developer with a passion for cod
 - 👯 I’m looking to collaborate on open-source projects
 
 ## My GitHub Stats
-<div style="display: flex; align-items: flex-start;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800&title=My%20GitHub%20Stats" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical&title=Top%20Languages" alt="Top Languages" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800&title=My%20GitHub%20Stats&bg_color=0D1117&text_color=FFFFFF&icon_color=FF5733" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical&title=Top%20Languages&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ## Languages and Tools
