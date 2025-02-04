@@ -1,16 +1,20 @@
 # Welcome to my GitHub Profile!
 
 ## About Me
-Hi, I'm Achraf! I'm a software developer with a passion for coding and open-source projects. I'm also a student at the University of Badji Mokhtar Annaba, pursuing a Master's degree in Computer Science with a specialization in Network and Cybersecurity.
+Hi, I'm SELOUGHA Mohamed Achraf! I'm a software developer with a passion for coding and open-source projects. I'm also a student at the University of Badji Mokhtar Annaba, pursuing a Master's degree in Computer Science with a specialization in Network and Cybersecurity.
 
 - 🔭 I’m currently working on [Agrivers](https://github.com/Atomic-CodeDz/Agrivers.git) and [Mawarid](https://github.com/Arctec-int/OmranDebrand.git)
 - 🌱 I’m currently learning **JavaScript**, **React**, and **Express.js**
 - 👯 I’m looking to collaborate on open-source projects
 
 ## My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800&title=My%20GitHub%20Stats&bg_color=0D1117&text_color=FFFFFF&icon_color=FF5733" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical&title=Top%20Languages&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800&title=My%20GitHub%20Stats" alt="GitHub Stats" />
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical&title=Top%20Languages" alt="Top Languages" />
+  </div>
 </div>
 
 ## Languages and Tools
