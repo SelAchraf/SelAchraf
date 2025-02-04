@@ -9,6 +9,9 @@ Hi, I'm Achraf! I'm a software developer with a passion for coding and open-sour
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelAchraf&theme=radical)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=SelAchraf&theme=radical)
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
