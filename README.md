@@ -8,10 +8,10 @@ Hi, I'm Achraf! I'm a software developer with a passion for coding and open-sour
 - 👯 I’m looking to collaborate on open-source projects
 
 ## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SelAchraf&theme=radical)
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=SelAchraf&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800&title=My%20GitHub%20Stats&bg_color=0D1117&text_color=FFFFFF&icon_color=FF5733" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical&title=Top%20Languages&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
