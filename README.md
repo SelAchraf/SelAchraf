@@ -7,12 +7,6 @@ Hi, I'm SELOUGHA Mohamed Achraf! I'm a software developer with a passion for cod
 - 🌱 I’m currently learning **JavaScript**, **React**, and **Express.js**
 - 👯 I’m looking to collaborate on open-source projects
 
-## My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SelAchraf&show_icons=true&theme=radical&cache_seconds=1800&title=My%20GitHub%20Stats&bg_color=0D1117&text_color=FFFFFF&icon_color=FF5733" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAchraf&layout=compact&theme=radical&title=Top%20Languages&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
 ## Languages and Tools
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
