@@ -22,3 +22,4 @@ Hi, I'm SELOUGHA Mohamed Achraf! I'm a software developer with a passion for cod
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Dv7ahYPqm/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/achraf._.sel?igsh=ZHJ1MGdoYWRmbWg1)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/SelMedAchraf)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-achraf-selougha-79886836a/)
